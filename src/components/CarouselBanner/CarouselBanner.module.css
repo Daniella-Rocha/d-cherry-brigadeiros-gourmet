@@ -1,0 +1,16 @@
+.brigadeiros_banner {
+    width: 100vw;
+}
+
+.brigadeiros_banner img{
+    filter: brightness(50%);
+    height: 65vh;
+    width: 100%;
+}
+
+.brigadeiros_banner.carousel.slide .carousel-inner .carousel-item{
+    align-items: center;
+    display: flex;
+    height: 70vh;
+    width: 100%;
+}

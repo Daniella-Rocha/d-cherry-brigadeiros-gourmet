@@ -1,0 +1,32 @@
+.modal-body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn.btn-primary{
+    background: none;
+    background: var(--wine);
+    border: 1px solid var(--wine);
+    color: var(--white);
+    margin-top: 0.6rem;
+    padding: 0;
+    transition: all ease 600ms;
+    width: 180px;
+}
+
+.btn.btn-primary:hover{
+    background: var(--dark-wine);
+}
+
+@media only screen and (min-width: 1024px) {
+    .modal-body {
+        flex-direction: row;
+    }
+    
+    .btn.btn-primary{
+        font-size: 0.8rem;
+        margin-top: 0.6rem;
+    }
+    
+}

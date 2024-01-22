@@ -1,0 +1,57 @@
+.review_container{
+    align-items: center;
+    color: var(--wine);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.review_container button{
+    background: var(--wine);
+    border: 2px solid var(--wine);
+    border-radius: 0.6rem;
+    color: var(--white);
+    padding: 0.4rem;
+    transition: ease-in 400ms;
+}
+
+.review_container button:hover{
+    background: var(--dark-wine);
+}
+
+.review_container .users{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+}
+
+.view_more{
+    display: none;
+    width: 100%;
+}
+
+.view_more_visible{
+    align-items: center;
+    animation: revealComents 600ms;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    transition: ease 400ms;
+}
+
+@media only screen and (min-width: 1024px){
+    .review_container .users{
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    
+    .view_more_visible{
+        flex-direction: row;
+        justify-content: space-evenly;
+        gap: 1rem;
+    }
+}
+

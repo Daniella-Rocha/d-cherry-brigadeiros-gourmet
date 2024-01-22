@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "brigadeiro_img": "/brigadeiros/brigadeiro-tradicional.jpeg",
+        "flavour_name": "Tradicional",
+        "flavour_description": "Brigadeiro Tradicional, coberto com chocolate granulado. A textura cremosa do brigadeiro é evidente, revelando a mistura perfeita de leite condensado, chocolate em pó e manteiga, resultando no clássico sabor irresistível.",
+        "flavour_imgs": [
+            "/brigadeiros/tradicional/brigadeiro-tradicional.jpeg",
+            "/brigadeiros/tradicional/brigadeiro-tradicional-gallery.jpeg",
+            "/brigadeiros/tradicional/brigadeiro-tradicional-gallery2.jpeg"
+        ]
+    },
+    {
+        "id": 2,
+        "brigadeiro_img": "/brigadeiros/brigadeiro-ninho.jpeg",
+        "flavour_name": "Ninho",
+        "flavour_description": "Brigadeiro Ninho, inspirado na textura e doçura do famoso leite em pó Ninho, este brigadeiro é uma explosão de cremosidade e suavidade. O brigadeiro é artisticamente decorado com uma generosa camada de leite em pó Ninho, proporcionando não apenas uma apresentação elegante, mas também um indicativo irresistível do sabor único dessa delícia gourmet.",
+        "flavour_imgs": [
+            "/brigadeiros/ninho/brigadeiro-ninho.jpg",
+            "/brigadeiros/ninho/brigadeiro-ninho.jpeg",
+            "/brigadeiros/ninho/brigadeiro-ninho-gallery.jpeg",
+            "/brigadeiros/ninho/brigadeiro-ninho-gallery2.jpeg"
+        ]
+    },
+    {
+        "id": 3,
+        "brigadeiro_img": "/brigadeiros/brigadeiro-nutella.jpeg",
+        "flavour_name": "Nutella",
+        "flavour_description": "Brigadeiro Nutella, ricamente decorado com avelãs picadas. A suavidade do chocolate de avelã se destaca, indicando a presença generosa de Nutella e avelãs na receita.",
+        "flavour_imgs": [
+            "/brigadeiros/nutella/brigadeiro-nutella.jpeg",
+            "/brigadeiros/nutella/brigadeiro-nutella-gallery.jpeg",
+            "/brigadeiros/nutella/brigadeiro-nutella-gallery2.jpeg"
+        ]
+    },
+    {
+        "id": 4,
+        "brigadeiro_img": "/brigadeiros/brigadeiro-morango-champagne.jpeg",
+        "flavour_name": "Morango com Champagne",
+        "flavour_description": "Brigadeiro de Morango com Champagne, adornado com flocos de chocolate branco. A cor rosa claro revela a fusão de purê de morango e champagne, proporcionando uma experiência gourmet e sofisticada.",
+        "flavour_imgs": [
+            "/brigadeiros/morango-champagne/brigadeiro-morango-champagne.jpg",
+            "/brigadeiros/morango-champagne/brigadeiro-morango-gallery.jpeg",
+            "/brigadeiros/morango-champagne/brigadeiro-morango-gallery2.jpeg"
+        ]
+    },
+    {
+        "id": 5,
+        "brigadeiro_img": "/brigadeiros/brigadeiro-pistache.jpeg",
+        "flavour_name": "Pistache",
+        "flavour_description": "Brigadeiro de Pistache, coberto com pistache moído. A tonalidade verde claro indica a presença do pistache na mistura, criando um brigadeiro refinado e único.",
+        "flavour_imgs": [
+            "/brigadeiros/pistache/brigadeiro-pistache.jpeg",
+            "/brigadeiros/pistache/brigadeiro-pistache-gallery.jpeg"
+        ]
+    },
+    {
+        "id": 6,
+        "brigadeiro_img": "/brigadeiros/brigadeiro-cafe-caramelo.jpeg",
+        "flavour_name": "Café com Caramelo",
+        "flavour_description": "Brigadeiro de Café com Caramelo, com um drizzle de caramelo decorativo. O tom marrom médio revela a adição de café solúvel e caramelo, proporcionando um equilíbrio perfeito entre doce e amargo.",
+        "flavour_imgs": [
+            "/brigadeiros/cafe-caramelo/brigadeiro-cafe-caramelo.jpeg",
+            "/brigadeiros/cafe-caramelo/brigadeiro-cafe-caramelo-gallery.jpeg"
+        ]
+    },
+    {
+        "id": 7,
+        "brigadeiro_img": "/brigadeiros/brigadeiro-limao-siciliano.jpeg",
+        "flavour_name": "Limão Siciliano",
+        "flavour_description": "Brigadeiro de Limão Siciliano, decorado com raspas da fruta. A cor amarelo claro indica a presença refrescante de suco e raspas de limão siciliano, criando uma opção cítrica e deliciosa.",
+        "flavour_imgs": [
+            "/brigadeiros/limao/brigadeiro-limao-siciliano.jpeg",
+            "/brigadeiros/limao/brigadeiro-limao-gallery.jpeg"
+        ]
+    },
+    {
+        "id": 8,
+        "brigadeiro_img": "/brigadeiros/brigadeiro-maracula-coco.jpeg",
+        "flavour_name": "Maracujá com Coco",
+        "flavour_description": "Brigadeiro de Maracujá com Côco, coberto com côco ralado. A cor amarelo claro reflete a presença da polpa de maracujá e côco ralado, proporcionando uma combinação tropical e deliciosa.",
+        "flavour_imgs": [
+            "/brigadeiros/maracuja-coco/brigadeiro-maracula-coco.jpg",
+            "/brigadeiros/maracuja-coco/brigadeiro-maracuja-gallery.jpeg"
+        ]
+    },
+    {
+        "id": 9,
+        "brigadeiro_img": "/brigadeiros/brigadeiro-amendoa-doce-de-leite.jpeg",
+        "flavour_name": "Doce de Leite com Amêndoas",
+        "flavour_description": "Brigadeiro de Doce de Leite com Amêndoas, decorado com amêndoas picadas. A tonalidade caramelo indica a doçura do doce de leite, enquanto as amêndoas adicionam uma textura crocante e sofisticada.",
+        "flavour_imgs": [
+            "/brigadeiros/doce-leite/brigadeiro-amendoa-doce-de-leite.jpeg",
+            "/brigadeiros/doce-leite/brigadeiro-amendoas-gallery.jpeg"
+        ]
+    }
+]

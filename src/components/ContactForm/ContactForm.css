@@ -1,0 +1,36 @@
+.contact {
+    color: var(--wine);
+    width: 80%;
+}
+
+.contact .mb-3 {
+    margin-bottom: 1rem;
+}
+.contact .mb-3 input,
+.contact .mb-3 textarea{
+    color: var(--wine);
+    margin: 0!important;
+    padding: 0.4rem;
+}
+
+.contact .mb-3 span{
+    color: red;
+}
+
+.submit-btn{
+    display: flex;
+}
+
+.submit-btn button{
+    background: var(--white);
+    border: none;
+    border-radius: 0.6rem;
+    color: var(--wine);
+    padding: 0.4rem 1rem;
+    transition: all ease 400ms;
+}
+
+.submit-btn button:hover{
+    background: #f1f1f1;
+}
+

@@ -1,0 +1,35 @@
+.flavour_img {
+    align-items: center;
+    display: flex;
+    height: 80%;
+    justify-content: center;
+    margin-bottom: 0.4rem;
+    width: 100%;
+}
+
+.img {
+    width: 80%;
+}
+
+.flavour_description {
+    text-align: center;
+    width: 50%;
+}
+
+@media only screen and (min-width: 1024px) {
+    .flavour_img {
+        align-items: center;
+        height: 100%;
+        margin-bottom: 0;
+        width: 50%;
+    }
+
+    .img {
+        width: 70%;
+    }
+
+    .flavour_description {
+        text-align: center;
+        width: 50%;
+    }
+}

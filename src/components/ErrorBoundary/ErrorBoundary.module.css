@@ -1,0 +1,19 @@
+.error_page{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.error_page p{
+    text-align: center;
+}
+
+.error_page img{
+    margin-bottom: 1rem;
+    width: 350px;
+}
+
+.error_page a{
+    color: var(--wine);
+    text-decoration: none;
+}

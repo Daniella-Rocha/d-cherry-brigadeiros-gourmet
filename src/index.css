@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+:root {
+    --black: #141414;
+    --pink: #f957ae;
+    --pink-secondary: #d3557b;
+    --white: #fff;
+    --wine: rgb(150, 48, 90);
+    --light-wine: rgb(162, 58, 102);
+    --dark-wine: rgb(75, 24, 45);
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #fcdcbf;
+    overflow-x: hidden;
+}
