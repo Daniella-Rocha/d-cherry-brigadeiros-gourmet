@@ -1,0 +1,30 @@
+.thanks_container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh - 120px);
+    width: 100%;
+}
+
+.thanks_container> :first-child {
+    color: var(--wine);
+    text-align: center;
+}
+
+.thanks_container> :first-child p {
+    font-size: 0.8rem;
+}
+
+.thanks_container img {
+    margin-bottom: 0.6rem;
+    width: 350px;
+}
+
+.thanks_container> :last-child a {
+    color: var(--wine);
+    text-decoration: none;
+}
+
+.thanks_container> :last-child {
+    margin-bottom: 1rem;
+}
