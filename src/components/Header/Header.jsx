@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 import { Link } from "react-router-dom";
 
 import styles from './Header.module.css';
@@ -7,11 +5,13 @@ import styles from './Header.module.css';
 import Gallery from "../GalleryComponent/GalleryComponent";
 
 const Header = () => {
-  
+
   return (
     <header className={styles.container_header}>
       <div className={styles.logo}>
-        <img src="/DCherry-crop.png" alt="D'Cherry" />
+        <Link to={'/'}>
+          <img src="/DCherry-crop.png" alt="D'Cherry" />
+        </Link>
       </div>
       <nav>
         <ul>
@@ -31,7 +31,7 @@ const Header = () => {
             </Link>
           </li>
           <li>
-            <Gallery/>
+            <Gallery />
           </li>
           <li>
             <Link to={'/contact'}>
