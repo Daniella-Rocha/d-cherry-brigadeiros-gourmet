@@ -8,11 +8,13 @@ import './ContactForm.css';
 
 const ContactForm = () => {
   const navigate = useNavigate();
-  
+
   const {
     register, handleSubmit, formState: { errors } } = useForm();
   const onSubmit = (data) => {
     console.log(data);
+    alert("Agradecemos o contato!");
+    navigate('/');
   }
 
   return (
