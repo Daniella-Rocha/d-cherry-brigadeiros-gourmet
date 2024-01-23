@@ -4,4 +4,4 @@ Conheça a D'Cherry Brigadeiros Gourmet, site da melhor loja brigadeiros gourmet
 
 Conheça os sabores oferecidos e saiba o que nossos clientes dizem sobre nós.
 
-![Conheça a D'Cherry](https://d-cherry-brigadeiros-gourmet.vercel.app)
+Conheça a D'Cherry (https://d-cherry-brigadeiros-gourmet.vercel.app)
