@@ -13,8 +13,7 @@ const ContactForm = () => {
     register, handleSubmit, formState: { errors } } = useForm();
   const onSubmit = (data) => {
     console.log(data);
-    alert("Agradecemos o contato!");
-    navigate('/');
+    navigate('/thanks');
   }
 
   return (

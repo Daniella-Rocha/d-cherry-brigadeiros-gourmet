@@ -15,6 +15,7 @@ import ErrorBoundary from './components/ErrorBoundary/ErrorBoundary.jsx';
 
 import './index.css';
 import Contact from './Pages/Contact/Contact.jsx';
+import ThanksPage from './Pages/ThanksPage/ThanksPage.jsx';
 
 const router = createBrowserRouter([
   {
@@ -42,6 +43,11 @@ const router = createBrowserRouter([
         // contact form
         element: <Contact/>,
         path: '/contact',
+        errorElement: <ErrorBoundary/>
+      },
+      {
+        element: <ThanksPage/>,
+        path: '/thanks',
         errorElement: <ErrorBoundary/>
       }
     ]
